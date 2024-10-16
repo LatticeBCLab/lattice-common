@@ -1,4 +1,4 @@
-package common
+package lattice_common
 
 const (
 	AddressLength = 20
